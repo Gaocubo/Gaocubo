@@ -48,8 +48,6 @@ Tenho um histórico comprovado na implementação de soluções de BI, modelagem
 
 - [🔗 projeto_um_completo_dbt](https://github.com/Gaocubo/projeto_um_completo_dbt): Projeto completo com DBT Core e BigQuery, implementando boas práticas de engenharia de dados.
 
-(*Você pode adicionar mais projetos aqui ao longo do tempo!*)
-
 ---
 
 ## 📫 Como me encontrar
